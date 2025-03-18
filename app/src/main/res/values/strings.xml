@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Döviz Çevirici</string>
+    <string name="convert_button">Çevir</string>
+</resources>
