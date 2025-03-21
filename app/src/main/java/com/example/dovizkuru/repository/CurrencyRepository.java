@@ -13,7 +13,7 @@ import retrofit2.Response;
 
 
 public class CurrencyRepository {
-    private static final String API_KEY = "402f4d52855cd3a94af94363c8a2ebc1"; // API anahtarı
+    private static final String API_KEY = "Your_api_key"; // API anahtarı
     private ApiService apiService;
 
     public CurrencyRepository() {
